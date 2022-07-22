@@ -1,8 +1,8 @@
 ### Olá, muito prazer!
 
-- 🔭 Atualmente desempregado (em adaptação/transição)
-- 🌱 Estou estudando JavaScript, CSS e HTML
-- 😄 Pronouns: Ele/dele
+- 🔭 Em busca de recolocação (em adaptação/transição)
+- 📚 Estou estudando JavaScript, CSS e HTML
+- 🤗 Pronouns: Ele/dele
 
 <div>
   <a href="https://github.com/LuccFonseca">
