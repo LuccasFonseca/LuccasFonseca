@@ -1,7 +1,7 @@
 ### Olá, muito prazer!
 
 - 🔭 Em busca de recolocação (em adaptação/transição)
-- 📚 Estudando JavaScript, CSS e HTML
+- 📚 Estudando Java, JavaScript, CSS e HTML
 - 🤗 Pronouns: Ele/dele
 
 <div align="center">
