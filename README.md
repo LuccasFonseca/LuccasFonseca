@@ -3,6 +3,7 @@
 - 🔭 Em busca de recolocação (em adaptação/transição)
 - 📚 Estudando programação (JAVA, C# (Unity), Python)
 - 🤗 Pronouns: Ele/dele
+- Languages: Falo português 🇧🇷 (fluente) et je parle français 🇫🇷 (en étudiant).
 
 <div align="center">
   <a href="https://github.com/luccasfonseca">
